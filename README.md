@@ -1,1 +1,1 @@
-# BasicDijkstra
+Dijkstra's Algorithm
